@@ -1,0 +1,34 @@
+======================================================================
+SUNNY CHUXEM - OFFICIAL CHARACTER INDEX & INTERACTIVE PROTOYPES
+======================================================================
+
+Character Name: Sunny Chuxem
+IP Classification: Original Character IP / Stylized Character Design
+Intended Use Case: Automation Pipelines, Video Games, Commercial UI
+
+----------------------------------------------------------------------
+1. DESIGN & ASSET REPOSITORIES (Static Portfolios)
+----------------------------------------------------------------------
+* Toyhouse Core Ledger: https://toyhou.se/40566158.sunny-chuxem
+  -> Complete design history, color swatches, and legal ownership logs.
+  
+* Unvale Character Hub: https://unvale.io/character/a5f83855-c127-47f6-84cc-a4c6078bf2ad
+  -> Production-ready asset sheets and variant model illustrations.
+  
+* CharacterHub Directory: https://characterhub.com/character/sunny-chuxem
+  -> Expanded worldbuilding guidelines and background lore.
+
+----------------------------------------------------------------------
+2. INTERACTIVE LLM BEHAVIORAL BENCHMARK (Cloud Prototype)
+----------------------------------------------------------------------
+* Character.AI Simulation Endpoint: https://character.ai/chat/hxv8Q3KlYo12ugWqUhP87o-o06463gDL3MzfJnugwck
+  
+  [NOTE FOR ART DIRECTORS / PROCUREMENT]:
+  This cloud-hosted sandbox serves purely as a conversational 
+  benchmark to demonstrate real-time response latency, voice 
+  inflection, and the core character personality. 
+  
+  For high-fidelity local rendering, asset generation, and closed-loop 
+  data privacy pipelines, use the SillyTavern + ComfyUI workflow 
+  included in ComfyUIcharacter by Superklok.
+======================================================================

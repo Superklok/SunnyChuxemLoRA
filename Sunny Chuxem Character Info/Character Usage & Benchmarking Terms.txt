@@ -1,0 +1,19 @@
+Character Usage & Benchmarking Terms (Read Before Using)
+
+Sunny Chuxem is an official benchmark asset and intellectual property of Superklok Labs, set within the TrenchPetals universe. You are highly encouraged to use this character to test your ComfyUI workflows, train models, and share your creative results with the community!
+
+🟢 Allowed (100% Commercially Usable)
+* Paid Workflows & Guides: You may freely include this character's images, assets, or dedicated LoRAs inside any workflows, packages, or guides that you sell, monetize, or distribute.
+* Workflow Testing & Generations: You are permitted to generate content featuring this character to test ComfyUI nodes, upscalers, models, and custom pipelines.
+* Social Media & Portfolios: You can post your generated content or artwork of this character on any of your social media and portfolio accounts to showcase your workflow results or artistic skills.
+* Commercial Artwork: You may sell individual digital prints, commissions, or generative outputs featuring this character design.
+
+⚠️ Mandatory Attribution Requirement
+You must credit the creator whenever posting or distributing assets featuring this character. 
+* Standard Text Credit: "Sunny Chuxem by TrenchPetals" or "Sunny Chuxem by Superklok Labs"
+* Platform Tagging: Where applicable, please tag our official @TrenchPetals, @TheTrenchPetals, @SuperklokLabs, or @Superklok profiles.
+
+🔒 Reservation of Rights & Custom Derivatives
+Trevor Morin / Superklok Labs / TrenchPetals retains full, exclusive ownership of the underlying intellectual property, character design, and lore of Sunny Chuxem. 
+
+The original creator, Trevor Morin, explicitly retains the sole right to issue separate, exclusive, or proprietary commercial licenses for custom, modified, or derivative variations of this character design to individual third parties via private contract. Users may not sell the overarching trademark, copyright, or exclusive commercial rights to any derivative adaptations of this character design.
