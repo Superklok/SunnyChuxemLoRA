@@ -1,4 +1,4 @@
-# 🌞 SunnyChuxemLoRA: 100% Commercially Usable Character LoRA v1.0.0
+# 🌞 SunnyChuxemLoRA: 100% Commercially Usable Character LoRA v1.0.1
 
 <img src="Screenshots/README Header.jpg" />
 
