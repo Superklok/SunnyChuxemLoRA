@@ -1,4 +1,4 @@
-# 🌞 SunnyChuxemLoRA: 100% Commercially Usable Character LoRA v1.0.1
+# 🌞 SunnyChuxemLoRA: 100% Commercially Usable Character LoRA v1.0.7
 
 <img src="Screenshots/README Header.jpg" />
 
@@ -29,6 +29,7 @@ Visit [Upwork](https://www.upwork.com/freelancers/~01a2b86360ffeb733e)/[Contra](
 * **Base Architecture Compatibility:** Stable Diffusion 3.5 Large (fp8 scaled / fp16 / bf16)
 * **Native Trained Resolution:** 1344x768 (Landscape centered-crop dataset layout)
 * **Required Activation Token:** `SunnyChuxem`
+* **Recommended Weight:** 0.8 - 1.0 (Use 1.0 for absolute character fidelity or dial down to 0.8 if stacking with heavy environment styles. Feel free to experiment with different values outside of the universal recommendation of 0.8 - 1.0 for character LoRAs, to see how it affects the final output image.)
 * **Dataset Density:** 50 hand-selected character images at 30 processing iterations per file (3,000 total training steps).
 * **Final loss value**: 0.0242, an absolute gold-standard score for a 50-image character model. It locked onto the Sunny Chuxem character details perfectly.
 
