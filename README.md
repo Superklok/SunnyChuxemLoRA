@@ -1,4 +1,4 @@
-# 🌞 SunnyChuxemLoRA: 100% Commercially Usable Character LoRA v1.0.7
+# 🌞 SunnyChuxemLoRA: 100% Commercially Usable Character LoRA v1.0.17
 
 <img src="Screenshots/README Header.jpg" />
 
@@ -15,13 +15,13 @@ Unlike LoRAs and workflows tied to restrictive non-commercial licenses, **this e
 * **Content Creators:** Automate Sunny Chuxem character image generation.
 * **IP Creators:** Monetize your Sunny Chuxem character images, workflows, original character variations, and visual outputs with zero subscription overhead.
 
-Sunny Chuxem was created with the help of `ComfyUIcharacter`, which specializes in turning primitive MS Paint drawings, combined with text prompts, into highly detailed 100% commercially usable images. Sunny Chuxem began as a primitive MS Paint drawing, here are the steps of his development using the `ComfyUIcharacter` workflow.
+Sunny Chuxem was created with the help of `CharacterToolkitSL`, which specializes in turning primitive MS Paint drawings, combined with text prompts, into highly detailed 100% commercially usable images. Sunny Chuxem began as a primitive MS Paint drawing, here are the steps of his development using `CharacterToolkitSL` workflows.
 
 <img src="Screenshots/1 - Portrait - Sunny Chuxem.png" width="40%"/> ➡️ <img src="Screenshots/3 - 1st Prototype Output - Sunny Chuxem.png" width="40%"/>⤵️
 <img src="Screenshots/4 - EDITED - Add Headband, Outline & Blur Fingers, Fix Nunchucks - Sunny Chuxem.png" width="40%"/> ➡️ <img src="Screenshots/5 - 2nd Prototype Output - Sunny Chuxem.png" width="40%"/>⤵️
 <img src="Screenshots/6 - EDITED - Fix Fingers & Nunchuck Length - Sunny Chuxem.png" width="40%"/> ➡️ <img src="Screenshots/8 - Definitive Master Asset - Sunny Chuxem.png" width="40%"/>
 
-Visit [Upwork](https://www.upwork.com/freelancers/~01a2b86360ffeb733e)/[Contra](https://contra.com/Superklok) to get your copy of the `ComfyUIcharacter` 100% commercially usable character automation engine today!
+Visit [Upwork](https://www.upwork.com/freelancers/~01a2b86360ffeb733e)/[Contra](https://contra.com/Superklok) to get your copy of the `CharacterToolkitSL` 100% commercially usable character automation engine today!
 
 ---
 
@@ -31,7 +31,7 @@ Visit [Upwork](https://www.upwork.com/freelancers/~01a2b86360ffeb733e)/[Contra](
 * **Required Activation Token:** `SunnyChuxem`
 * **Recommended Weight:** 0.8 - 1.0 (Use 1.0 for absolute character fidelity or dial down to 0.8 if stacking with heavy environment styles. Feel free to experiment with different values outside of the universal recommendation of 0.8 - 1.0 for character LoRAs, to see how it affects the final output image.)
 * **Dataset Density:** 50 hand-selected character images at 30 processing iterations per file (3,000 total training steps).
-* **Final loss value**: 0.0242, an absolute gold-standard score for a 50-image character model. It locked onto the Sunny Chuxem character details perfectly.
+* **Final loss value**: `0.0242`, an absolute gold-standard score for a 50-image character model. It locked onto the Sunny Chuxem character details perfectly.
 
 ---
 
@@ -144,21 +144,21 @@ When training your own LoRAs, you can use the `captioner.py` script found in you
 
 <img src="Screenshots/captioner script.png" width="60%"/>
 
-If you're interested in owning a custom version of the same Premium ComfyUI Workflow that generated the images used to train `SunnyChuxemLoRA`, then reach out through [Upwork](https://www.upwork.com/freelancers/~01a2b86360ffeb733e) or [Contra](https://contra.com/Superklok) to order your very own custom copy of the `ComfyUIcharacter` 100% Commercially Usable Character Automation Engine + SillyTavern Integration today! Here's a sample output from using the `SunnyChuxemLoRA` through the `ComfyUIcharacter` SillyTavern integration:
+If you're interested in owning a custom version of the same Premium ComfyUI Workflow that generated the images used to train `SunnyChuxemLoRA`, then reach out through [Upwork](https://www.upwork.com/freelancers/~01a2b86360ffeb733e) or [Contra](https://contra.com/Superklok) to order your very own custom copy of the `CharacterToolkitSL` 100% Commercially Usable Character Automation Engine + SillyTavern Integration today! Here's a sample output from using the `SunnyChuxemLoRA` through the `CharacterToolkitSL` SillyTavern integration:
 
 <img src="Screenshots/SillyTavern image message.png" width="75%"/> 
 
 <img src="Screenshots/Sunny Chuxem_2026-08-09@06h06m43s534ms.png" />
 
-The `ComfyUIcharacter` workflow comes with 2 completely separate preloaded background text prompt placeholders for when it's not importing information from SillyTavern to generate images, by default you have the choice between generating your own 100% commercially usable images of Sunny Chuxem in a multi-colour alien world or a mysterious purple brick sewer. The system accepts a combination of different text prompts and uploaded image files to generate the final output image. This is an example of the multi-colour portrait prompt in the `ComfyUIcharacter` workflow:
+`CharacterToolkitSL` comes with 2 completely separate preloaded background prompts for when it's not importing information from SillyTavern to generate images, by default you have the choice between generating your own 100% commercially usable images of Sunny Chuxem in a multi-colour alien world or a mysterious purple brick sewer. The system accepts a combination of different text prompts and uploaded image files to generate the final output image. This is an example of the multi-colour portrait prompt workflow in `CharacterToolkitSL`:
 
-<img src="Screenshots/ComfyUIcharacter.png" width="75%"/> 
+<img src="Screenshots/CharacterToolkitSL.png" width="75%"/> 
 
 <img src="Screenshots/SunnyChuxem__00001_.png" />
 
-Here's an example of the purple portrait prompt in the `ComfyUIcharacter` workflow:
+Here's an example of the purple portrait prompt workflow in `CharacterToolkitSL`:
 
-<img src="Screenshots/ComfyUIcharacter purple.png" width="75%"/>
+<img src="Screenshots/CharacterToolkitSL purple.png" width="75%"/>
 
 <img src="Screenshots/SunnyChuxem__00001_purple.png" />
 
